@@ -44,6 +44,7 @@ conn = pymysql.connect(
         password = "",
         db='449_db',
         )
+	
         
 -> To run the project run the following command:
 		flask run
