@@ -41,7 +41,7 @@ Steps  to install and setup Mysql:
 Install ‘mysqldb’ module in the set virtual environment.
 Flask-MySQLdb provides MySQL connection for Flask, for that run the below command.
 
-$ pip install flask-mysqldb
+		pip install flask-mysqldb
 
 Now add the below code to connect mysql with flask application
 from flask import Flask
